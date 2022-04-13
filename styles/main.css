@@ -1,0 +1,16 @@
+ * {
+     box-sizing: border-box;
+ }
+
+ h1 {´
+    font-size: 30px;
+    font-family: sans-serif;
+    font-weight: bold;
+}
+
+p {
+    font-size: 30px;
+    font-family: serif;
+    font-weight: bold;
+    background-color: blue;
+}
